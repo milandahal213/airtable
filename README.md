@@ -11,7 +11,7 @@
 Sign in if you have an Airtable account, or Sign up to create a new account
 </br>
 
-![sign up screen](/images/signup.png)
+![sign up screen](/images/signup.png)![sign in screen](/images/signin.png)
 
 Go to https://airtable.com/api
 
