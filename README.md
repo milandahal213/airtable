@@ -30,14 +30,16 @@
 
 <h2>Finding the BaseID  </h2> </br>
 
-<h2> 1. Go to https://airtable.com/api </h2>
+<h3> 1. Go to https://airtable.com/api </h3>
 
 ![api welcome screen](/images/apiwelcome.png)
 
-<h2> 2. Click on your project name to reveal the api page. Copy the BaseID and replace the "BaseID" on secrets.py with this string </h2>
+<h3> 2. Click on your project name to reveal the api page. Copy the BaseID and replace the "BaseID" on secrets.py with this string </h3>
 
 ![api page screen](/images/apipage.png)
 
+<h2> Creating the App Key </h2> </br>
 
+<h3> 1. Go to https://airtable.com/account</h3>
+![api welcome screen](/images/apiwelcome.png)
 
-Go to https://airtable.com/account
