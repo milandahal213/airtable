@@ -34,7 +34,7 @@
 
 ![api welcome screen](/images/apiwelcome.png)
 
-<h2> 2. Click on your project name to reveal the api page. Copy the BaseID and replace the "BaseID" on secrets.py </h2>
+<h2> 2. Click on your project name to reveal the api page. Copy the BaseID and replace the "BaseID" on secrets.py with this string </h2>
 
 ![api page screen](/images/apipage.png)
 
