@@ -1,10 +1,35 @@
 
-import airtable as aaa
-record_id =aaa.Put_AT('Table 1','Name','Milan')  # Table 1 is table name, Name is field name and Milan is value, puts value in the end of the column and returns the record id
-a=aaa.Get_AT('Table 1','Name')                   # Table 1 is table name, Name is the field name, returns the last value in the column
-array=aaa.Get_AT_field('Table 1','Name')        # similar to Get_AT, but returns the whole field , user will have to parse the value [0] is first, [1] is second ,[-1] will give the last value and so on
-c=aaa.Delete_AT('Table 1',record_id)             # deletes the record on Table 1 with record_id. finding record id is tricky. you can either save it while putting a value or do a list, which is not included in this library
+import airtable
+
+ # Put_AT adds a record in Field ("Name") in the Table ("Table 1") with the value ("Milan")
+ # Table 1 is Table name
+ # Name is Field name (of type one line string) and 
+ # Milan is value, 
+ # Function returns the record id for the updated record (useful for deleting)
           
+record_id airtable.Put_AT('Table 1','Name','Milan') 
+
+
+# Get_AT returns the last record from the Field ("Name") in the Table ("Table 1")
+# Table 1 is Table name
+# Name is Field name
+a=airtable.Get_AT('Table 1','Name')   
+
+
+# Get_AT_field returns the entire list of record from the Field ("Name") in the Table ("Table 1")
+# Table 1 is Table name
+# Name is Field name
+# value [0] is the first record , [1] is second ,[-1] is the last record and so on
+
+array=airtable.Get_AT_field('Table 1','Name')      
+
+
+
+# Delete_AT deletes the  record with "record_id" from the Table ("Table 1")
+# Table 1 is Table name
+# record_id is record id
+    
+c=airtable.Delete_AT('Table 1',"record_id")             
 
 print(record_id)    # prints the record id returned while updating the field    
 print(a)            # prints the value of the last record of the field
