@@ -97,11 +97,7 @@ Get_AT_field('Table_name','Field_name') returns the entire list of record from t
 <details>
 <summary>Delete_AT</summary>
 
-Delete_AT deletes the  record with "record_id" from the Table ("Table 1")
-# Table 1 is Table name
-# record_id is record id
-    
-c=airtable.Delete_AT('Table 1',"record_id")             
+Delete_AT('Table_name',"record_id")  deletes the  record with "record_id" from the Table_name Table.
 
 </details>
 </details>
