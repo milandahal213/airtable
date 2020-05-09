@@ -8,9 +8,11 @@
 ![login screen](/images/airtable_welcome.png)
 
 </br>
-Sign in if you have an Airtable account, or Sign up to create a new account
 </br>
 
+Sign in if you have an Airtable account, or Sign up to create a new account
+</br>
+</br> 
 ![sign up screen](/images/signup.png)![sign in screen](/images/signin.png)
 
 Go to https://airtable.com/api
