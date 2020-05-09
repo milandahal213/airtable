@@ -16,21 +16,18 @@
 
 ![sign up screen](/images/signup.png)![sign in screen](/images/signin.png)
 
-<h3>3. Click on add a base and give it a suitable name</h3>
+<h3>3. Click on add a base 
+        
+        
+![add base screen](/images/addbase.png)
+and give it a suitable name</h3>
+
 </br>
 </br> 
 
-<div style="overflow: hidden; display: inline-block;">
-        <div class="" style="max-width: 20%; max-height: 20%;">
-            ![add base screen](/images/addbase.png)
-        </div>
 
-        <div class="" style="max-width: 100%; max-height: 100%;">
 ![name base screen](/images/namebase.png)
-        </div>
-
         
-    </div>
 
 
 
