@@ -72,7 +72,7 @@
 Edit the secrets.py file by replacing BaseID and API Key from your account. Refer to the sections <i> Finding the BaseID </i> and <i> Creating API Key </i> on how to do it.
 
 <h3> 2. Refer to demo.py file</h3>
-</details>
+
 <details>
   <summary>Put_AT</summary>
 
@@ -115,4 +115,5 @@ array=airtable.Get_AT_field('Table 1','Name')
     
 c=airtable.Delete_AT('Table 1',"record_id")             
 
+</details>
 </details>
