@@ -10,7 +10,7 @@
 </br>
 </br>
 
-Sign in if you have an Airtable account, or Sign up to create a new account
+<h3>Sign in if you have an Airtable account, or Sign up to create a new account</h3>
 </br>
 </br> 
 ![sign up screen](/images/signup.png)![sign in screen](/images/signin.png)
