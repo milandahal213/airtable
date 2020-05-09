@@ -1,10 +1,6 @@
 # airtable
-
-<h2>Creating account - Creating Base </h2> </br>
-
 <details>
-  <summary>Click to expand!</summary>
-
+  <summary> <h2>Creating account - Creating Base </h2>  </summary>
 
 <h3> 1. Go to https://airtable.com </h3>
 </br>
