@@ -65,6 +65,8 @@
 
 <details>
   <summary>Using the library</summary>
+   
+<h3> 0. Download secrets.py and airtable.py to your EV3.</h3>
 
 
 <h3> 1. Edit the secrets.py file</h3>
