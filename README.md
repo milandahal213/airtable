@@ -34,12 +34,17 @@
 
 ![api welcome screen](/images/apiwelcome.png)
 
-<h3> 2. Click on your project name to reveal the api page. Copy the BaseID and replace the "BaseID" on secrets.py with this string </h3>
+<h3> 2. Click on your project name to reveal the api page. Copy the BaseID and replace the "BaseID" in secrets.py with this string </h3>
 
 ![api page screen](/images/apipage.png)
 
-<h2> Creating the App Key </h2> </br>
+<h2> Creating the API Key </h2> </br>
 
-<h3> 1. Go to https://airtable.com/account</h3>
-![api welcome screen](/images/apiwelcome.png)
+<h3> 1. Go to https://airtable.com/account and click Generate API Key</h3>
+
+![api welcome screen](/images/api1.png)
+
+<h3> 2. Copy the API Key and replace the "AirtableAPPKey" in secrets.py with this string. Do not share this string.</h3>
+
+![api welcome screen](/images/api2.png)
 
