@@ -16,7 +16,7 @@
 
 ![sign up screen](/images/signup.png)![sign in screen](/images/signin.png)
 
-<h3>3. Click on Add a base    </h3>     
+<h3>3. Click on Add a base and Start from scratch   </h3>     
 
 ![add base screen](/images/addbase.png)
 
@@ -29,6 +29,11 @@
 ![table view screen](/images/tableview.png)
 
 <h2>Creating BaseID and API Key </h2> </br>
+
+![api welcome screen](/images/apiwelcome.png)
+
+
+![api page screen](/images/apipage.png)
 
 Go to https://airtable.com/api
 
