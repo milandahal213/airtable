@@ -1,2 +1,2 @@
 ATappkey= "AirtableAppKey"
-ATdocID='Airtable Document ID'
+ATdocID='BaseID'
