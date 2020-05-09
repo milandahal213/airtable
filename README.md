@@ -42,9 +42,9 @@
 
 <h3> 1. Go to https://airtable.com/account and click Generate API Key</h3>
 
-![api welcome screen](/images/api1.png)
+![api welcome screen](/images/apikey1.png)
 
 <h3> 2. Copy the API Key and replace the "AirtableAPPKey" in secrets.py with this string. Do not share this string.</h3>
 
-![api welcome screen](/images/api2.png)
+![api welcome screen](/images/apikey2.png)
 
