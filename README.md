@@ -1,7 +1,7 @@
 # airtable
 
 <h2>Creating account - Creating Base </h2> </br>
-<h3>1. Go to https://airtable.com </h3>
+<h3> 1. Go to https://airtable.com </h3>
 </br>
 </br> 
 
@@ -10,13 +10,13 @@
 </br>
 </br>
 
-<h3>2. Sign in if you have an Airtable account, or Sign up to create a new account</h3>
+<h3> 2. Sign in if you have an Airtable account, or Sign up to create a new account</h3>
 </br>
 </br> 
 
 ![sign up screen](/images/signup.png)![sign in screen](/images/signin.png)
 
-<h3>3. Click on Add a base and Start from scratch   </h3>     
+<h3> 3. Click on Add a base and Start from scratch   </h3>     
 
 ![add base screen](/images/addbase.png)
 
@@ -28,13 +28,16 @@
         
 ![table view screen](/images/tableview.png)
 
-<h2>Creating BaseID and API Key </h2> </br>
+<h2>Finding the BaseID  </h2> </br>
+
+<h2> 1. Go to https://airtable.com/api </h2>
 
 ![api welcome screen](/images/apiwelcome.png)
 
+<h2> 2. Click on your project name to reveal the api page. Copy the BaseID and replace the "BaseID" on secrets.py </h2>
 
 ![api page screen](/images/apipage.png)
 
-Go to https://airtable.com/api
+
 
 Go to https://airtable.com/account
