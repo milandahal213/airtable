@@ -1,2 +1,2 @@
-ATappkey= "keyUJbBe7v9k7geQ0"
-ATdocID='app76scSEkHficVhk'
+ATappkey= "AirtableAppKey"
+ATdocID='Airtable Document ID'
