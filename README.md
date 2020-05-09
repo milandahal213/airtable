@@ -1,6 +1,11 @@
 # airtable
 
 <h2>Creating account - Creating Base </h2> </br>
+
+<details>
+  <summary>Click to expand!</summary>
+
+
 <h3> 1. Go to https://airtable.com </h3>
 </br>
 </br> 
@@ -27,6 +32,7 @@
 <h3> 4. This will open up your new document . Note the names of the Table and Fields </h3>
         
 ![table view screen](/images/tableview.png)
+</details>
 
 <h2>Finding the BaseID  </h2> </br>
 
