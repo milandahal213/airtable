@@ -24,8 +24,11 @@
 
 ![name base screen](/images/namebase.png)
         
+<h3> 4. This will open up your new document . Note the names of the Table and Fields </h3>
+        
+![table view screen](/images/tableview.png)
 
-
+<h2>Creating BaseID and API Key </h2> </br>
 
 Go to https://airtable.com/api
 
