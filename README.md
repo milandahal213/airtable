@@ -24,8 +24,10 @@
 
 ![name base screen](/images/namebase.png)
         
-
-
+<h3> 4. This will open up your new document . Note the names of the Table and Fields
+        
+ 
+![table view screen](/images/tableview.png)
 
 Go to https://airtable.com/api
 
