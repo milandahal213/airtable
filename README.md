@@ -16,18 +16,9 @@
 
 ![sign up screen](/images/signup.png)![sign in screen](/images/signin.png)
 
-<h3>3. Click on Add a base 
-        
-        
-![add base screen](/images/addbase.png)
+<h3>3. Click on Add a base        ![add base screen](/images/addbase.png)
 
-and give it a suitable name</h3>
-
-</br>
-</br> 
-
-
-![name base screen](/images/namebase.png)
+and give it a suitable name</h3>  ![name base screen](/images/namebase.png)
         
 
 
