@@ -3,7 +3,7 @@
 <h2>Creating account - Creating Base </h2> </br>
 <h3>1. Go to https://airtable.com </h3>
 </br>
-</br>
+</br> 
 
 ![login screen](/images/airtable_welcome.png)
 
