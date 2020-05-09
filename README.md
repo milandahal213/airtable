@@ -69,7 +69,7 @@
 
 <h3> 1. Edit the secrets.py file</h3>
 
-Edit the secrets.py file by replacing BaseID and API Key from your account. Refer to the sections <i> Finding Base Id </i> and <i> Creating API Key </i> on how to do it.
+Edit the secrets.py file by replacing BaseID and API Key from your account. Refer to the sections <i> Finding the BaseID </i> and <i> Creating API Key </i> on how to do it.
 
-<h3> 2. Edit the secrets.py file</h3>
+<h3> 2. Check the demo.py file</h3>
 </details>
