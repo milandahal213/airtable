@@ -1,8 +1,8 @@
 # airtable
 
-<h2>Creating account - Creating Base </h2> 
+
 <details>
-<summary>Click to expand </summary>
+<summary>Creating account - Creating Base </summary>
 
 <h3> 1. Go to https://airtable.com </h3>
 </br>
@@ -32,10 +32,10 @@
 ![table view screen](/images/tableview.png)
 </details>
 
-<h2>Finding the BaseID  </h2> </br>
+
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Finding the BaseID </summary>
 
 <h3> 1. Go to https://airtable.com/api </h3>
 
@@ -47,11 +47,10 @@
 
 </details>
 
-<h2> Creating the API Key </h2> </br>
 
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Creating the API Key</summary>
 
 
 <h3> 1. Go to https://airtable.com/account and click Generate API Key</h3>
