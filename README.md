@@ -36,6 +36,9 @@
 
 <h2>Finding the BaseID  </h2> </br>
 
+<details>
+  <summary>Click to expand!</summary>
+
 <h3> 1. Go to https://airtable.com/api </h3>
 
 ![api welcome screen](/images/apiwelcome.png)
@@ -44,7 +47,14 @@
 
 ![api page screen](/images/apipage.png)
 
+</details>
+
 <h2> Creating the API Key </h2> </br>
+
+
+<details>
+  <summary>Click to expand!</summary>
+
 
 <h3> 1. Go to https://airtable.com/account and click Generate API Key</h3>
 
@@ -53,4 +63,6 @@
 <h3> 2. Copy the API Key and replace the "AirtableAPPKey" in secrets.py with this string. Do not share this string.</h3>
 
 ![api welcome screen](/images/apikey2.png)
+
+</details>
 
